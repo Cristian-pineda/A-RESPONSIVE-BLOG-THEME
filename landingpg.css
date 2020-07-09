@@ -1,0 +1,114 @@
+  
+  body{
+    color: black;
+    }
+
+  nav{
+    text-align: center;
+    padding: 10px;
+  }
+  
+  header{
+    background: url("https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-size: cover;
+    width: 100%;
+    margin: 0 auto;
+    }
+    
+  #banner_title{
+    font-family: 'Lobster', cursive;
+    color: white;
+    text-align: left;
+    padding: 18% 18%;
+    padding-left: 10%;
+  }
+
+  #under_h1{
+    color: #F2845C;
+  }
+
+  ul {
+    text-align: center;
+    padding: 10px;
+    background: rgba(0,0,0,0.5);
+  }
+  li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+
+  a:link{
+    color: white;
+  }
+
+  a:hover{
+    color: #F2845C;
+  }
+
+  a:visited{
+    color: #D9B18F;
+  }
+
+  article{
+    font-family: Cambria;
+    text-align: center;
+    margin: 0 auto;
+
+  }
+
+  footer{
+    text-align: center;
+    margin: 3% 3%;
+  }
+
+  #portrait{
+    width: 450px;
+    border-radius: 10%;
+  }
+
+  form{
+    background: #232226;
+    border: #232226 15px solid;
+    width: 90%;
+    margin: 0 auto;
+    color: white;
+  }
+
+
+  input[type="submit"]{
+    border: 0px;
+    background: #F2845C;
+    font-family: 'Lobster', cursive;
+    font-size: 100%;
+    height: 35px;
+    width: 100px;
+  }
+  
+    input[type="email"]{
+    width: 200px;
+    height: 28px;
+    }
+
+    label{
+      font-size: 23px;
+    }
+
+    table{
+        margin: 0 auto;
+        margin-top: 5%;
+        margin-bottom: 0px;
+        /* border: white 10px solid; */
+    }
+
+    .td_photo{
+      width: 350px;
+      border: white 10px solid;
+    }
+
+    hr{
+      margin-top: 3px;
+    }
+
+    .project01{
+      margin-top: 3%;
+    }
